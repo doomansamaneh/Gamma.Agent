@@ -1,0 +1,6 @@
+D:\Users\yengi\Dev-GammaPlus\_itsm\gamma.agent\Gamm.Agent\bin\x86\Release\Gamm.Agent.exe.config
+D:\Users\yengi\Dev-GammaPlus\_itsm\gamma.agent\Gamm.Agent\bin\x86\Release\Gamm.Agent.exe
+D:\Users\yengi\Dev-GammaPlus\_itsm\gamma.agent\Gamm.Agent\bin\x86\Release\Gamm.Agent.pdb
+D:\Users\yengi\Dev-GammaPlus\_itsm\gamma.agent\Gamm.Agent\obj\x86\Release\Gamm.Agent.csproj.CoreCompileInputs.cache
+D:\Users\yengi\Dev-GammaPlus\_itsm\gamma.agent\Gamm.Agent\obj\x86\Release\Gamm.Agent.exe
+D:\Users\yengi\Dev-GammaPlus\_itsm\gamma.agent\Gamm.Agent\obj\x86\Release\Gamm.Agent.pdb
